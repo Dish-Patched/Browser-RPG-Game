@@ -1,0 +1,5 @@
+- RPG game made using HTML, CSS and Javascript
+- Works on the browser
+- PAssion project while learning Javascript fundamentals
+- Hint: There is a secret easter egg built into the game. Let me know if you find it
+- Good luck slaying the dragon!
